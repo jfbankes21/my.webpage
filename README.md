@@ -2,7 +2,7 @@
 
 I am a crazy fool, making me hulia the fulia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My real name is Julia Bankes
 
 ### Markdown
 
