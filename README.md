@@ -2,7 +2,7 @@
 
 I am a crazy fool, making me hulia the fulia.
 
-My real name is Julia Bankes
+My real name is Julia
 
 ### Markdown
 
