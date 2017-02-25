@@ -4,8 +4,6 @@ I am a crazy fool, making me hulia the fulia.
 
 My real name is Julia
 
-http://www.lovethispic.com/uploaded_images/33564-Donuts-.jpg
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
